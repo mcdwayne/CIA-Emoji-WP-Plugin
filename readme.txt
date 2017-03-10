@@ -5,12 +5,12 @@ Requires at least: 2.8
 Tested up to: 4.7.3
 Stable tag: 1.0
 
-A sidebar widget that display the CIA's Emoji list from wikileaks: https://wikileaks.org/ciav7p1/cms/page_17760284.html
+A sidebar widget that display one of the CIA's Emoji list from wikileaks: https://wikileaks.org/ciav7p1/cms/page_17760284.html
 
 
 == Description ==
 
-A sidebar widget that display the CIA's Emoji list from wikileaks: https://wikileaks.org/ciav7p1/cms/page_17760284.html
+A sidebar widget that display one of the CIA's Emoji list from wikileaks: https://wikileaks.org/ciav7p1/cms/page_17760284.html
 This is a fork of https://wordpress.org/plugins/fun-facts/
 This is the first time I have done this, hacking someone else's code and released it in the wild. 
 We are all standing on the shoulders of giants and I am very thankful to http://www.joeswebtools.com/wordpress-plugins/fun-facts/ for making this very handy and functional code.  
