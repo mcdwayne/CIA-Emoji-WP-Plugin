@@ -52,7 +52,7 @@ function cia_emoji_shortcode_handler($atts, $content = nul) {
 	// Create the table name
 	$table_name = $wpdb->prefix . 'cia_emoji';
 
-	// Get a fun fact
+	// Get a CIA Emoji
 	$ciaemoji_count = $wpdb->get_var("SELECT COUNT(*) FROM $table_name");
 	$ciaemoji_random = rand(0, $ciaemoji_count - 1);
 	$ciaemoji_record = $wpdb->get_results("SELECT * FROM $table_name WHERE id={$ciaemoji_random}");
