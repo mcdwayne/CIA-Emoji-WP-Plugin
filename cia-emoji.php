@@ -8,6 +8,7 @@
  *	Version: 1.0
  *	Author: mcdwayne
  *	Author URI: http://mcdwayne.com/
+ *	GitHub Plugin URI: https://github.com/mcdwayne/CIA-Emoji-WP-Plugin
  *
  *
  * This is a fork of https://wordpress.org/plugins/fun-facts/
