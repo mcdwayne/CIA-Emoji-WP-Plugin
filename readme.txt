@@ -3,7 +3,7 @@ Contributors: mcdwayne
 Tags: fact, fun, fun facts, humour, interesting, knowledge, random, sidebar, useless, weird, widget, wonderful
 Requires at least: 2.8
 Tested up to: 4.7.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 A sidebar widget that displays one of the CIA's Emojis from the wikileaks list: https://wikileaks.org/ciav7p1/cms/page_17760284.html
 
